@@ -1,0 +1,19 @@
+# Model files
+*.keras
+*.h5
+*.pt
+*.weights
+
+# Data
+dataset/
+*.zip
+*.csv
+*.npy
+*.pkl
+
+# Python + Streamlit
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/
