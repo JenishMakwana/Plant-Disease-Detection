@@ -9,8 +9,6 @@ matplotlib
 seaborn
 langchain
 langchain-groq
-langchain.chains
-langchain.memory
 huggingface-hub
 requests
 Pillow
