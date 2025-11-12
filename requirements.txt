@@ -1,0 +1,14 @@
+# Libraries commonly used by a Plant-Disease-Detection app.
+# Adjust versions or run `pip freeze > requirements.txt` after installing exact packages.
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+langchain
+langchain-groq
+huggingface-hub
+requests
+Pillow
