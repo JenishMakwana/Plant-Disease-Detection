@@ -12,7 +12,7 @@ from langchain_groq import ChatGroq
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
 
-st.set_page_config(page_title="AgroAssist", layout="wide")
+st.set_page_config(page_title="Smart Crop Care", layout="wide")
 
 #st.sidebar.title("🌾 Smart Crop Care")
 # Sidebar navigation
